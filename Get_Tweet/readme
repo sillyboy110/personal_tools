@@ -1,0 +1,7 @@
+This programme just get some person's tweet that i follow.
+
+The programme need cefsharp and HtmlAgilityPack.So when you build it ,you should first download them.
+If anyone know how to using selenium to implement the same function,please tell me.I tried using selenium,but when the page have too many
+tweets,like 600 tweet or more.The selenium can't use webbrowser.pagesource to get the page source,it will have out of memory exception.
+
+如果哪位用selenium实现了抓取，麻烦告知一下怎么解决的selenium 当tweet文较多时，获取网页源码提示内存不够的问题。谢谢！
