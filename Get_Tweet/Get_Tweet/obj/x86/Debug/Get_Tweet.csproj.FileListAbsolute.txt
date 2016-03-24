@@ -1,0 +1,10 @@
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\bin\Debug\Get_Tweet.exe
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\bin\Debug\Get_Tweet.pdb
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\bin\Debug\HtmlAgilityPack.pdb
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\bin\Debug\HtmlAgilityPack.xml
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.csprojResolveAssemblyReference.cache
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.Form1.resources
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.Properties.Resources.resources
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.csproj.GenerateResource.Cache
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.exe
+K:\tools\自己编写工具\Get_Tweet\Get_Tweet\obj\x86\Debug\Get_Tweet.pdb
